@@ -6,7 +6,7 @@
     <packaging>jar</packaging>
     <version>0.1</version>
     <name>FindBugs Maven plugin Cookbook</name>
-    <description>FindBugs Maven plugin Cookbook</description>
+    <description>{just playing around}FindBugs Maven plugin Cookbook</description>
     <licenses>
         <license>
             <name>Apache License 2.0</name>
